@@ -1,0 +1,6 @@
+[servers]
+127.0.0.1
+
+[servers:vars]
+password_length=200
+password_characters=#/\=a-zA-Z0-9-
